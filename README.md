@@ -1,7 +1,13 @@
 - 👋 Hi, I’m Kritika Srivastava.
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently a sophomore at IGDTUW, pursuing my bachelor's degree in ECE(Electronics and Communication Engineering).
-- 💞️ I’m looking to collaborate on OpenSource Projects.
+- 🌱 I’m currently a junior at IGDTUW, pursuing my bachelor's degree in ECE(Electronics and Communication Engineering).
+
+---------------------
+
+-  My primary coding language: C++
+-  I am a 3-Star at CodeChef.
+-  I am an enthusiastic Web Developer 👩‍💻 and very passionate for learning and exploring new technologies 🚀
+- 👯 I’m looking to collaborate on Open Source Projects.
+- 💬 Ask me about anything!, I'll be happy to help:)
 - 📫 You can reach me at kritikaa.srivastavaa@gmail.com
 
 <!---
